@@ -1,3 +1,4 @@
 My first Github commit
 My second commit
 Poll is running
+New line is inserted
